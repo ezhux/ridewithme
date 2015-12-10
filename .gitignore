@@ -8,3 +8,7 @@ test-output/
 *.iml
 .classpath_nb
 .classpath
+.settings/
+.cache-main
+.cache-tests
+bin/
